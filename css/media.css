@@ -1,0 +1,563 @@
+@media(min-width:1920px) and (max-width:2560px){
+    .left-ban h2 {
+        font-size: 60px;
+    }
+    .left-ban h1 {
+        font-size: 65px;
+    }
+    .left-ban p {
+        font-size: 26px;
+    }
+    .bbt {
+        min-height: 60vh;
+    }
+    .owl-carousel .owl-item img {
+        max-width: 40%;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+    .left-ban h1 {
+        font-size: 44px;
+    }
+    .owl-nav .owl-prev span {
+        padding: 2px 12px;
+        font-size: 20px;
+    }
+    .owl-nav .owl-next span{
+        padding: 2px 12px;
+        font-size: 20px;
+    }
+    .post ul li h5 {
+         margin-bottom: 0px;
+    }
+    .icon-follow span {
+        padding: 16px;
+    }
+    .follow-link h3 {
+        font-size: 22px;
+    }
+    .items:hover .img-icon {
+        transform: translateX(-50%) scale(1);
+        z-index: 99;
+        top: 27%;
+        width: 100%;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .logo img {
+        width: 70%;
+    }
+    .h-s .dtails {
+    display: none;
+}
+.left-ban h2 {
+    font-size: 30px;
+}
+.left-ban h1 {
+    font-size: 32px;
+}
+.owl-nav .owl-prev span {
+    padding: 2px 12px;
+    font-size: 20px;
+}
+.owl-nav .owl-next span{
+    padding: 2px 12px;
+    font-size: 20px;
+}
+.doctor-2 {
+    width: 43%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.service-text p {
+    font-size: 13px;
+}
+.down-deatils h2 {
+    font-size: 20px;
+}
+.down-deatils p {
+    font-size: 13px;
+}
+.price-name h1 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #00cce1;
+    transition: 0.4s all ease-in-out;
+}
+.price-rate h1 {
+    font-size: 40px;
+}
+.price-dtail ul li {
+    font-size: 15px;
+}
+.client-logo img {
+    margin: 0 20px;
+}
+.post ul li img {
+    width: 30%;
+}
+.fp {
+    font-size: 15px;
+}
+.post ul li h5 {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.footer-icon ul li p {
+    font-size: 13px;
+}
+.news p {
+    font-size: 15px;
+}
+.news form input[type="submit"] {
+    padding: 10px 0px;
+    font-size: 12px;
+}
+.news form input[type="email"]::placeholder{
+    font-size: 11px;
+}
+.follow-link h3 {
+    font-size: 16px;
+}
+.icon-follow span {
+    padding: 12px;
+}
+.icon-follow span i {
+    font-size: 14px;
+}
+.navbar-expand-md .navbar-nav {
+    flex-direction: row;
+    margin: 0 !important;
+}
+.client-logo{
+    width: 15%;
+}
+.items:hover .img-icon {
+    transform: translateX(-50%) scale(1);
+    z-index: 99;
+    top: 22%;
+    width: 100%;
+}
+.items span {
+    width: 40px;
+    height: 40px;
+}
+}
+@media(min-width: 0px) and (max-width: 767px){
+    .owl-carousel .owl-item img {
+       display: none;
+    }
+    .menu{
+        display: none;
+    }
+    .menu-mb{
+        display: inherit;
+    }
+    .nav-item{
+        margin-bottom: 20px;
+    }
+    .main-menu ul li{
+        margin-bottom: 10px;
+    }
+    .main-menu ul{
+        text-align: center;
+    }
+    .app-detail ul li {
+        transform: skewX(-20deg
+    );
+    }
+    .xx-device{
+        display: none;
+    }
+    .left-ban h1 {
+        font-size: 42px;
+    }
+    .mb-device{
+        display: inherit;
+    }
+    .banner-bottom{
+        text-align: center;
+    }
+    .doctor-2 {
+        display: inherit;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .up-dtalis{
+       text-align: center;
+    }
+    .down-deatils {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .h-s .dtails {
+        display:inherit;
+    }
+    .h-s{
+        display: inline;
+        text-align: center;
+    }
+    .logo img {
+        width: 40%;
+    }
+    .left-ban h1 {
+        /* font-size: 42px; */
+    }
+    .items {
+        margin-bottom: 40px;
+    }
+    .center-text p {
+        width: 90%;
+    }
+    .icon-text {
+        width: 100%;
+        justify-content: center;
+    }
+    .service-text {
+        text-align: center;
+    }
+    .pricing-table {
+        margin-bottom: 40px;
+    }
+    .client-logo img {
+        width: 35%;
+        margin: 0 20px;
+    }
+    .footer-icon {
+        margin-bottom: 40px;
+    }
+    .recent-post {
+        margin-bottom: 40px;
+    }
+    .icon-follow span {
+        margin: 0 8px;
+    } 
+    .follow-link h3 {
+        font-size: 28px;
+    }   
+    .client-logo {
+        width: 60%;
+    }
+    .post ul li {
+        margin-bottom: 20px;
+    }
+    
+    .appionment {
+        width: 100%;
+        position: relative;
+        transform: skew(0deg);
+    }
+    .logo{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .h-s .dtails h3 {
+        font-size: 20px;
+    }
+    .main-menu ul li{
+        margin: 0;
+    }
+.dental-down{
+    margin-top: 300px;
+}
+.dental {
+    margin-top: 60px;
+} 
+
+.dental .doctor-2{
+    max-width: 45%;
+}
+.items:hover .img-icon {
+    transform: translateX(-50%) scale(1);
+    z-index: 99;
+    top: 25%;
+    width: 100%;
+}
+.items span {
+    width: 40px;
+    height: 40px;
+}
+}
+@media(min-width:0px) and (max-width:575px){
+    .logo img {
+        width: 37%;
+    }
+    .header-social ul {
+        justify-content: space-around;
+    }
+    .client-logo {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin: auto;
+        width: 50%;
+    }
+    .post ul li {
+        margin-bottom: 20px;
+    }
+    .left-ban h1 {
+        font-size: 40px;
+    }
+    
+    .h-s .dtails h3 {
+        font-size: 20px;
+    }
+    .h-s .icon i {
+        font-size: 24px;
+    }
+    .h-s .dtails a{
+
+    }
+    .dental .doctor-2{
+
+max-width: 60%;
+
+}
+.items:hover .img-icon {
+    transform: translateX(-50%) scale(1);
+    z-index: 99;
+    top: 25%;
+    width: 100%;
+}
+}
+@media(min-width:376px) and (max-width:425px){
+    .left-ban h1 {
+        font-size: 32px;
+    }
+    .left-ban h2 {
+        font-size: 24px;
+    }
+    .post ul li h5 {
+        margin-bottom: 0px;
+    }
+    .icon-follow span {
+       margin: 0;
+    }
+    .h-s .dtails h3 {
+        font-size: 17px;
+    }
+    .h-s .icon i {
+        font-size: 22px;
+    }
+    .h-s .dtails a{
+
+display: none;
+
+}
+.dental .doctor-2{
+
+max-width: 80%;
+}
+.items:hover .img-icon {
+    transform: translateX(-50%) scale(1);
+    z-index: 99;
+    top: 25%;
+    width: 100%;
+}
+.items span {
+    width: 30px;
+    height: 30px;
+}
+}
+@media(min-width:0px) and (max-width:375px){
+    .left-ban h2 {
+        font-size: 22px;
+    }
+    .left-ban h1 {
+        font-size: 28px;
+    }
+    .btn-book {
+        padding: 10px 27px;
+    }
+    .owl-carousel .owl-item img {
+        width: 90%;
+    }
+    .btn-learn {
+        margin-right: 0px;
+    }
+    .post ul li {
+        margin-bottom: 20px;
+    }
+    .follow-link h3 {
+        font-size: 22px;
+    }
+    .icon-follow span {
+        margin: 0;
+        padding: 16px;
+    }
+    .owl-nav .owl-prev span {
+        padding: 2px 12px;
+        font-size: 20px;
+    }
+    .owl-nav .owl-next span{
+        padding: 2px 12px;
+        font-size: 20px;
+    }
+    .dtails{
+        display: none !important;
+    }
+    .dental .doctor-2{
+
+max-width: 85%;
+
+}
+.items:hover .img-icon {
+    transform: translateX(-50%) scale(1);
+    z-index: 99;
+    top: 21%;
+    width: 100%;
+}
+.items span {
+    width: 25px;
+    height: 25px;
+}
+}
+@media(min-width:321px) and (max-width:367px){
+    .btn-book {
+        margin-top: 10px;
+    }
+    .dental .doctor-2{
+
+    }
+    .items:hover .img-icon {
+        transform: translateX(-50%) scale(1);
+        z-index: 99;
+        top: 50%;
+        width: 100%;
+    }
+    .items span {
+        width: 25px;
+        height: 25px;
+    }
+}
+@media(min-width:0px) and (max-width:320px){
+    .client-logo img {
+        margin: 0 6px;
+    }
+    .left-ban h2 {
+        font-size: 20px;
+    }
+    .left-ban h1 {
+        font-size: 23px;
+    }
+    .left-ban p {
+        font-size: 15px;
+    }
+    .btn-learn {
+        margin-bottom: 10px;
+        font-size: 15px;
+        padding: 8px 15px;
+        margin-right: 0;
+    }
+    .btn-book {
+        padding: 8px 22px;
+        font-size: 15px;
+    }
+    .owl-nav .owl-prev span {
+        padding: 0px 10px;
+        font-size: 20px;
+    }
+    .owl-nav .owl-next span{
+        padding: 0px 10px;
+        font-size: 20px;
+    }
+    .owl-carousel .owl-item img {
+        width: 100%;
+    }
+    .appionment {
+        height: 40px;
+        margin-top: -5px;
+    }
+    .menu {
+        padding: 5px 0;
+    }
+    .up-dtalis h1 {
+        font-size: 30px;
+        margin-top: -60px;
+    }
+    .up-dtalis p {
+        font-size: 15px;
+    }
+    .down-deatils p {
+        font-size: 14px;
+    }
+    .center-text h1 {
+        font-size: 30px;
+    }
+    .center-text p {
+        font-size: 15px;
+    }
+    .icon-text h1 {
+        font-size: 16px;
+    }
+    .icon-text {
+        width: 100%;
+        justify-content: none;
+    }
+    .service-text p {
+        font-size: 15px;
+    }
+    .price-rate h1 {
+        font-size: 40px;
+    }
+    .client-logo {
+        width: 65%;
+    }
+    .footer-icon ul li p {
+        font-size: 14px;
+    }
+    .post ul li h5 {
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    .post ul li p {
+        font-size: 14px;
+    }
+    .post ul li {
+        margin-bottom: 20px;
+    }
+    .news p {
+        font-size: 15px;
+    }
+    .follow-link h3 {
+        font-size: 22px;
+    }
+    .h-s .icon i {
+        font-size: 20px;
+    }
+    .icon-follow span {
+        margin: 0;
+    }
+    .icon-follow span {
+        padding: 12px;
+    }
+    .price-name h1 {
+        font-size: 28px;
+    }
+    .news form input[type="submit"] {
+        padding: 10px 0px;
+        font-size: 12px;
+    }
+    .news form input[type="email"]::placeholder{
+        font-size: 11px;
+    }
+    .dental .doctor-2{
+        
+max-width: 90%;
+    }
+    .items h1 {
+        font-size: 20px;
+    }
+    .items:hover .img-icon {
+        transform: translateX(-50%) scale(1);
+        z-index: 99;
+        top: 18%;
+        width: 100%;
+    }
+    .items span {
+        width: 25px;
+        height: 25px;
+    }
+}
+
